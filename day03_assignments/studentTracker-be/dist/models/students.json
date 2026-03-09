@@ -1,0 +1,37 @@
+[
+  {
+    "id": "783a954a-ceba-474a-be0c-04fd6a11a920",
+    "gender": "Male",
+    "name": "Arjin Joshi",
+    "address": "Dhangadhi-11, Kailali",
+    "phoneNumber": "9866345454"
+  },
+  {
+    "id": "edbc9ea4-8460-4383-8897-716d002b9535",
+    "gender": "Male",
+    "name": "Gyanas Luitel",
+    "address": "Kathmandu, Kailali",
+    "phoneNumber": "9854343568"
+  },
+  {
+    "id": "8838f535-c650-433b-82b8-12d140752129",
+    "gender": "Female",
+    "name": "Sobita Gautam",
+    "address": "Chitean, Nepal",
+    "phoneNumber": "9854533568"
+  },
+  {
+    "id": "0db08976-b17e-4e43-9834-b72a08297913",
+    "gender": "Non-Binary",
+    "name": "Mahesh Basnet",
+    "address": "Bhaktapur, Nepal",
+    "phoneNumber": "9854653568"
+  },
+  {
+    "id": "c8a0076c-cce5-48c2-82de-9bbf5f68383d",
+    "gender": "Male",
+    "name": "Shayam Chhetri",
+    "address": "Kathmandu, Nepal",
+    "phoneNumber": "9887653568"
+  }
+]
